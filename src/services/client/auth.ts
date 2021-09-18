@@ -23,7 +23,6 @@ export async function signIn(email: string, password: string) {
       email: user.email,
       picture: user.pictureUrl
     },
-
     token
   };
 }
