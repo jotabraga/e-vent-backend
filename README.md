@@ -1,8 +1,8 @@
 # drivent-back
-Back-end for Driven.t, an event management solution.
+Back-end for E-vent, an event management solution.
 
 ## About
-Driven.t is a web browser application with which you can manage every single aspect of your event.
+E-vent is a web browser application with which you can manage every single aspect of your event.
 
 ## How to run
 1. Clone this repository
