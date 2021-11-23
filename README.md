@@ -14,6 +14,7 @@ This is an web aplication wich users can enroll yourselves in an event, choose b
 - [x] Certificate 
 ### Future improvements 🔮
 - [ ] Mobile version
+- [ ] Dynamic data to complete certificates
 - [ ] Certificate only at the end of event
 ## Tech tools 🔧
 The following tools and frameworks were used in the construction of the project:<br>
